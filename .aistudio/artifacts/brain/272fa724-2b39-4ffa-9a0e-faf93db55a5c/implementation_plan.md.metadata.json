@@ -1,0 +1,6 @@
+{
+  "summary":  "Architectural implementation plan for Invoice Manager on Android with native Kotlin, Jetpack Compose, Room persistence, and offline PDF generation.",
+  "updatedAt":  "2026-10-24T21:34:40.172899953Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}

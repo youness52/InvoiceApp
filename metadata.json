@@ -1,0 +1,6 @@
+{
+  "name": "Invoice Manager",
+  "description": "Professional invoicing, quotation, payment tracking and PDF generation for businesses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
